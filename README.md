@@ -1,0 +1,1 @@
+ChatSphere Virtual adalah aplikasi chat berbasis TCP/IP untuk komunikasi antara dua perangkat dalam simulasi jaringan GNS3. Aplikasi ini menggunakan socket programming untuk koneksi server-client, dengan enkripsi pesan menggunakan metode Substitusi Cipher. 
